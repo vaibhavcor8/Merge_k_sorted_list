@@ -6,3 +6,5 @@ for ch in s:
     else:
         dic[ch]=1
 print(dic)
+
+# this is my program 
